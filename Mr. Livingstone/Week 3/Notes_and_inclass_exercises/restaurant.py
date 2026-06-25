@@ -1,0 +1,1 @@
+#make a class named Restaurant the __init__() methodfor resauran should sore wo aribues: a resauran name and a cuisine_pe
