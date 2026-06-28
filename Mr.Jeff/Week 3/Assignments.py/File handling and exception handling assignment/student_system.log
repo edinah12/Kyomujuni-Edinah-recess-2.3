@@ -1,0 +1,17 @@
+2026-06-28 23:46:31,476 - INFO - Viewed all student records.
+2026-06-28 23:46:31,476 - INFO - Searched for student S002.
+2026-06-28 23:46:31,614 - INFO - Added student S900.
+2026-06-28 23:46:31,776 - INFO - Updated student S900.
+2026-06-28 23:46:31,855 - INFO - Deleted student S900.
+2026-06-28 23:46:31,919 - WARNING - Student S999 was not found.
+2026-06-28 23:46:31,919 - INFO - Demo handled a missing student lookup correctly.
+2026-06-28 23:51:25,330 - INFO - Added student 21/W/22.
+2026-06-28 23:52:24,396 - INFO - Viewed all student records.
+2026-06-28 23:53:18,408 - INFO - Searched for student S003.
+2026-06-28 23:53:38,987 - INFO - Searched for student S003.
+2026-06-28 23:55:44,939 - INFO - Updated student S003.
+2026-06-28 23:56:13,768 - INFO - Searched for student S002.
+2026-06-28 23:56:31,101 - INFO - Deleted student S002.
+2026-06-28 23:56:48,203 - INFO - Searched for student S003.
+2026-06-28 23:57:16,328 - WARNING - Student S002 was not found.
+2026-06-28 23:57:16,330 - WARNING - User-facing error: No student record found for S002.

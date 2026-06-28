@@ -1,0 +1,23 @@
+[
+    {
+        "reg_no": "21/W/22",
+        "address": "chicago",
+        "contact": "0765432112",
+        "program": "BASS",
+        "email": "zihra@gmail.com"
+    },
+    {
+        "reg_no": "S001",
+        "address": "Kampala, Uganda",
+        "contact": "+256700000001",
+        "program": "Computer Science",
+        "email": "john.kamya@example.com"
+    },
+    {
+        "reg_no": "S003",
+        "address": "jinja, uganda",
+        "contact": "0764321873",
+        "program": "Software Engineering",
+        "email": "peter.musinguzi@example.com"
+    }
+]

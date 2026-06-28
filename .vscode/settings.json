@@ -3,5 +3,6 @@
   "python.terminal.activateEnvironment": true,
   "code-runner.executorMap": {
     "python": "python -u"
-  }
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
